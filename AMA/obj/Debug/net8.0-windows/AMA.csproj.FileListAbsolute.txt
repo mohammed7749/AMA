@@ -1,0 +1,14 @@
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\bin\Debug\net8.0-windows\AMA.exe
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\bin\Debug\net8.0-windows\AMA.deps.json
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\bin\Debug\net8.0-windows\AMA.runtimeconfig.json
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\bin\Debug\net8.0-windows\AMA.dll
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\bin\Debug\net8.0-windows\AMA.pdb
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\obj\Debug\net8.0-windows\AMA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\obj\Debug\net8.0-windows\AMA.AssemblyInfoInputs.cache
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\obj\Debug\net8.0-windows\AMA.AssemblyInfo.cs
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\obj\Debug\net8.0-windows\AMA.csproj.CoreCompileInputs.cache
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\obj\Debug\net8.0-windows\AMA.dll
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\obj\Debug\net8.0-windows\refint\AMA.dll
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\obj\Debug\net8.0-windows\AMA.pdb
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\obj\Debug\net8.0-windows\AMA.genruntimeconfig.cache
+C:\Users\PC\RiderProjects\WinFormsApp1\AMA\obj\Debug\net8.0-windows\ref\AMA.dll
