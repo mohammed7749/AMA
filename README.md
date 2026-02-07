@@ -67,4 +67,4 @@ This tool is strictly for educational and ethical security testing purposes. Una
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
 
-Developed with ❤️ by mohammed7749
+Developed with ❤️ by mohammed khalid Aldauis
